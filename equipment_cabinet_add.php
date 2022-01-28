@@ -1,6 +1,6 @@
 <?php
 error_reporting(E_ALL ^ E_NOTICE);
-$measurement="House_Temp_Hum";
+$measurement="House_Temp";
 
 $influxdb_host="localhost";
 $influxdb_port=8086;
